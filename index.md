@@ -1,4 +1,4 @@
-# Welcome to the Multi-center Alzheimer Disease Imaging(MCADI) Consortium wiki
+Welcome to the Multi-center Alzheimer Disease Imaging(MCADI) Consortium wiki.
 
 This is a wiki page for [Multi-center Alzheimer Disease Imaging Consortium](https://github.com/YongLiuLab/MCADI/).
 
